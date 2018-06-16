@@ -1,7 +1,5 @@
 # CCU workroutine autofill GUI version 
 
-*****
-
 ![](https://i.imgur.com/VV4sTCY.png)
 
 **********
